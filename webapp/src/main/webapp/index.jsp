@@ -1,1 +1,1 @@
-Hurray!!!!. Hello, World!
+ Hello, World!
